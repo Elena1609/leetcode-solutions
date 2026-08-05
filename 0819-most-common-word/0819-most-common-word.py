@@ -18,10 +18,7 @@ class Solution(object):
                     worddict[newword] = worddict.get(newword, 0) + 1
                 newword = ""     
         if newword != "" and newword not in banned:
-            if worddict.get(newword) is not None:
-                worddict[newword]+=1
-            else:
-                worddict[newword]=1
+            worddict[newword] = worddict.get(newword, 0) + 1
             
         return max(worddict, key=worddict.get)
     
