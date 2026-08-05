@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: str
         """
         newword = ""
-        wordlist = []
         worddict = {}
         banned = set(banned)
         delimiters = " !?',;."
@@ -14,16 +13,17 @@ class Solution(object):
             if each not in delimiters:
                 newword = newword + each.lower()
             else:
-                if newword != "":
-                    wordlist.append(newword)
-                    newword = ""   
+                if newword != "" and newword not in banned:
+                    if worddict.get(newword) is not None:
+                        worddict[newword]+=1
+                    else:
+                        worddict[newword]=1
+                newword = ""     
         if newword != "":
-            wordlist.append(newword)     
-        for word in wordlist:
-            if word not in banned:
-                if worddict.get(word) is not None:
-                    worddict[word]+=1
-                else:
-                    worddict[word]=1     
+            if worddict.get(newword) is not None:
+                worddict[newword]+=1
+            else:
+                worddict[newword]=1
+            
         return max(worddict, key=worddict.get)
     
