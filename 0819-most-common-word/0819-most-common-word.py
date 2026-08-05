@@ -17,8 +17,7 @@ class Solution(object):
                     wordlist.append(newword)
                     newword = ""   
         if newword != "":
-            wordlist.append(newword)
-        print wordlist      
+            wordlist.append(newword)     
         for word in wordlist:
             if word not in banned:
                 if worddict.get(word) is not None:
