@@ -5,21 +5,19 @@ class Solution(object):
         :type banned: List[str]
         :rtype: str
         """
-        newword = ""
+        word=""
         worddict = {}
         banned = set(banned)
         delimiters = " !?',;."
         paragraph = paragraph.lower()
         letters = []
         for each in paragraph + " ":
-            if each not in delimiters:
-                #newword += each
+            if each not in delimiters:                
                 letters.append(each)
             else:
-                newword = "".join(letters)
-                if newword != "" and newword not in banned:
-                    worddict[newword] = worddict.get(newword, 0) + 1
-                #newword = ""
+                word = "".join(letters)
+                if word != "" and word not in banned:
+                    worddict[word] = worddict.get(word, 0) + 1
                 letters = []                 
         return max(worddict, key=worddict.get)
     
