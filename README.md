@@ -25,11 +25,13 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Hash Function
 |  |
 | ------- |
@@ -38,8 +40,13 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
