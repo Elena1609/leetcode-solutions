@@ -19,7 +19,7 @@ class Solution(object):
                     else:
                         worddict[newword]=1
                 newword = ""     
-        if newword != "":
+        if newword != "" and newword not in banned:
             if worddict.get(newword) is not None:
                 worddict[newword]+=1
             else:
