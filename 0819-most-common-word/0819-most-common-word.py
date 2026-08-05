@@ -9,15 +9,13 @@ class Solution(object):
         worddict = {}
         banned = set(banned)
         delimiters = " !?',;."
+        paragraph = paragraph.lower()
         for each in paragraph:
             if each not in delimiters:
-                newword = newword + each.lower()
+                newword = newword + each
             else:
                 if newword != "" and newword not in banned:
-                    if worddict.get(newword) is not None:
-                        worddict[newword]+=1
-                    else:
-                        worddict[newword]=1
+                    worddict[newword] = worddict.get(newword, 0) + 1
                 newword = ""     
         if newword != "" and newword not in banned:
             if worddict.get(newword) is not None:
