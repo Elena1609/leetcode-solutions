@@ -10,14 +10,12 @@ class Solution(object):
         banned = set(banned)
         delimiters = " !?',;."
         paragraph = paragraph.lower()
-        letters = []
         for each in paragraph + " ":
             if each not in delimiters:                
-                letters.append(each)
-            else:
-                word = "".join(letters)
+                word += each
+            else:                
                 if word != "" and word not in banned:
                     worddict[word] = worddict.get(word, 0) + 1
-                letters = []                 
+                word = ""                 
         return max(worddict, key=worddict.get)
     
