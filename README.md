@@ -40,6 +40,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Sorting
 |  |
@@ -49,4 +50,8 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
