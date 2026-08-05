@@ -9,8 +9,9 @@ class Solution(object):
         wordlist = []
         worddict = {}
         banned = set(banned)
+        delimiters = {" ", "!", "?", "'", ",", ";", "."}
         for each in paragraph:
-            if each not in [" ","!","?","'",",",";","."]:
+            if each not in delimiters:
                 newword = newword + each.lower()
             else:
                 if newword != "":
