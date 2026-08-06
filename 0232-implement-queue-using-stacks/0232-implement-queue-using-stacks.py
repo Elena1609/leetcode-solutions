@@ -4,9 +4,6 @@ class MyQueue(object):
         self.stack_in = []
         self.stack_out = []
 
-    def size(self):
-        return len(self.stack_in) + len(self.stack_out)   
-
     def push(self, x):
         """
         :type x: int
