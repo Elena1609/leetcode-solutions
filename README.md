@@ -13,6 +13,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Elena1609/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0707-design-linked-list) |
@@ -58,9 +59,11 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Elena1609/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Elena1609/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
