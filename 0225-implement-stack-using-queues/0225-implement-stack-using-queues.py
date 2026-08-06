@@ -11,7 +11,7 @@ class MyStack(object):
         :rtype: None
         """
         self.q2.append(x)
-        while len(self.q1) != 0:
+        while self.q1:
             self.q2.append(self.q1.pop(0))
         
         self.q1, self.q2 = self.q2, self.q1    
