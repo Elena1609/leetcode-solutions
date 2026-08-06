@@ -8,6 +8,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Design
@@ -15,6 +16,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Elena1609/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -26,6 +28,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Hash Table
@@ -66,4 +69,5 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Elena1609/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
