@@ -13,6 +13,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -54,4 +55,12 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Elena1609/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
