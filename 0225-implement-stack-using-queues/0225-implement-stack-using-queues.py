@@ -33,7 +33,7 @@ class MyStack(object):
         """
         :rtype: bool
         """
-        return not self.q1
+        return len(self.q1) == 0
         
 
 
