@@ -27,6 +27,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Elena1609/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -74,4 +75,8 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Elena1609/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Elena1609/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
