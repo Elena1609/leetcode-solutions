@@ -7,6 +7,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -82,4 +83,20 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Elena1609/leetcode-solutions/tree/master/0039-combination-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
