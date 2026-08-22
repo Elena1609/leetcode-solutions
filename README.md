@@ -22,6 +22,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Elena1609/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Elena1609/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Array
@@ -45,6 +46,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Elena1609/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -59,6 +61,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Elena1609/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
 ## Stack
 |  |
