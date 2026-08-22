@@ -17,7 +17,7 @@ class Solution(object):
                 mergedList.append(current.val)
                 current = current.next
         mergedList = sorted(mergedList)
-        if mergedList!=[]:
+        if mergedList:
             head = ListNode(mergedList[0])
         else:
             head = None   
