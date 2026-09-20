@@ -29,6 +29,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Elena1609/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Elena1609/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -86,6 +87,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Elena1609/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -99,4 +101,8 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Elena1609/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Elena1609/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
