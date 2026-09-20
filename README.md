@@ -32,6 +32,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | [0004-median-of-two-sorted-arrays](https://github.com/Elena1609/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/Elena1609/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Elena1609/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Elena1609/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0622-design-circular-queue](https://github.com/Elena1609/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/Elena1609/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/Elena1609/leetcode-solutions/tree/master/0819-most-common-word) |
@@ -65,6 +66,7 @@ My solutions to some LeetCode problems - Created using [LeetHub v2](https://gith
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Elena1609/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Elena1609/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Elena1609/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
