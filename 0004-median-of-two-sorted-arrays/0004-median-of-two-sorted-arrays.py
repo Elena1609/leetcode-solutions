@@ -35,9 +35,6 @@ class Solution(object):
             merged_array[k] = nums2[j]
             j += 1
             k += 1
-
-     
-        print merged_array
         
         l = len(merged_array)
         mid = l // 2
