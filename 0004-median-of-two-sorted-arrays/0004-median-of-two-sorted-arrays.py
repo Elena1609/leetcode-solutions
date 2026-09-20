@@ -12,10 +12,12 @@ class Solution(object):
         j = 0
         k = 0
 
+        '''
         if m == 0:
             merged_array = nums2
         if n == 0:
             merged_array = nums1
+        '''    
 
         while i < m and j < n:
             if nums1[i] <= nums2[j]:
